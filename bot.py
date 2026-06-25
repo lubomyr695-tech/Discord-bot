@@ -5,7 +5,7 @@ from mcstatus import JavaServer
 
 TOKEN = os.getenv("Token")
 
-SERVER_IP = "PVP12KHO.aternos.me:48325"
+SERVER_IP = "GoldMoneyS2.aternos.me"
 
 intents = discord.Intents.default()
 intents.message_content = True
